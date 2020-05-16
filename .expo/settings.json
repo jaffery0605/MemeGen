@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "t9-p3m",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}

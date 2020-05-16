@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://t9-p3m.anonymous.memegen.exp.direct",
+  "packagerNgrokUrl": "https://packager.t9-p3m.anonymous.memegen.exp.direct",
+  "ngrokPid": 9444,
+  "webpackServerPort": null
+}
